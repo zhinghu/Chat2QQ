@@ -3,6 +3,7 @@ main: me.dreamvoid.chat2qq.bukkit.BukkitPlugin
 version: ${project.version}
 author: DreamVoid
 api-version: 1.13
+folia-supported: true
 prefix: MiraiMC
 depend:
   - MiraiMC
